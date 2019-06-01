@@ -1,20 +1,32 @@
-[
 {
-	"id":1,
-	"title":"口算",
-	"type":1,
-	"value":20,
-	"flag":1,
-	"bauto":false,
-	"canrepeat":false
-},
-{
-	"id":2,
-	"title":"老师找家长",
-	"type":2,
-	"value":60,
-	"flag":-1,
-	"bauto":false,
-	"canrepeat":false
+  "items": [
+    {
+      "id": 1,
+      "title": "口算",
+      "type": 1,
+      "value": 20,
+      "flag": 1,
+      "bauto": false,
+      "canrepeat": false
+    },
+    {
+      "id": 2,
+      "title": "老师找家长",
+      "type": 2,
+      "value": 60,
+      "flag": -1,
+      "bauto": false,
+      "canrepeat": false
+    },
+    {
+      "title": "test4",
+      "canrepeat": true,
+      "id": 4
+    }
+  ],
+  "itemHistory": [
+    {
+      "date": "2019-6-1"
+    }
+  ]
 }
-]
